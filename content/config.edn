@@ -1,7 +1,8 @@
-{:site-title                   "My Awesome Blog"
- :author                       "Bob Bobbert"
- :description                  "This blog is awesome"
- :site-url                     "http://blogawesome.com/"
+{:site-title                   "My Blog"
+ :author                       "Sawan Sancheti"
+ :description                  "Blog built with Cryogen and deployed to GitHub Pages"
+ :site-url                     "https://sawansanc.github.io"
+ :base-url                     "/"
  :post-root                    "posts"
  :page-root                    "pages"
  :post-root-uri                "posts-output"
@@ -17,7 +18,7 @@
  :archive-group-format         "yyyy MMMM"
  :sass-src                     []
  :sass-path                    "sass"
- :theme                        "blue"
+ :theme                        "nucleus"
  :resources                    ["img"]
  :keep-files                   [".git"]
  :disqus?                      false

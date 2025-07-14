@@ -1,0 +1,42 @@
+name: Deploy Cryogen to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Clojure
+        uses: DeLaGuardo/setup-clojure@main
+        with:
+          cli: latest
+
+      - name: Cache Maven
+        uses: actions/cache@v4
+        with:
+          path: ~/.m2
+          key: ${{ runner.os }}-maven-${{ hashFiles('**/deps.edn') }}
+
+      - name: Build Cryogen site
+        run: clojure -M:build
+
+      - name: Show public directory contents
+        run: |
+          echo "Listing contents of current directory:"
+          ls public/blog
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: public/blog
+          publish_branch: gh-pages

@@ -32,11 +32,11 @@ jobs:
       - name: Show public directory contents
         run: |
           echo "Listing contents of current directory:"
-          ls public/blog
+          ls -R
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: public/blog
+          publish_dir: public
           publish_branch: gh-pages

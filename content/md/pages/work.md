@@ -5,7 +5,7 @@
 
 ## 💼 Past Employment
 
-Welcome to the part of this website where things start to get serious (and seriously fun).
+Here's a brief history of my professional employment. For a complete CV, you may find the PDF [here](/docs/CV_Sawan_Sancheti.pdf).
 
 ---
 

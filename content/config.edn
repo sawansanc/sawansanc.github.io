@@ -6,7 +6,7 @@
  :post-root                    "posts"
  :page-root                    "pages"
  :post-root-uri                "posts-output"
- :page-root-uri                "pages-output"
+ :page-root-uri                ""
  :tag-root-uri                 "tags-output"
  :author-root-uri              "authors-output"
  :public-dest                  "public"
@@ -19,7 +19,7 @@
  :sass-src                     []
  :sass-path                    "sass"
  :theme                        "blue_centered"
- :resources                    ["img"]
+ :resources                    ["img" "docs"]
  :keep-files                   [".git"]
  :disqus?                      false
  :disqus-shortname             ""

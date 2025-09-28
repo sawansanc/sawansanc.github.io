@@ -11,61 +11,63 @@ Welcome to the part of this website where things start to get serious (and serio
 
 ### 🧊 Rippling – Software Engineer II *(Sep 2024 – Present, Bengaluru)*
 
- At Rippling—a rocketship of a startup making HRIS less of a headache—I led from the front.
+At Rippling, I work on building core HRIS modules that help thousands of businesses onboard and manage employees more effectively.
 
-- I took the reins on core HR modules that thousands of companies depend on to hire and onboard new folks—yeah, I helped make that magic happen.
-- Worked across the stack and across teams (product, design, you name it) to ship features that actually made a difference.
-- Refactored gnarly old code into sleek, scalable features using Django and MongoDB. Tech debt, consider yourself handled.
-- Jumped into the on-call chaos, wrestled bugs in prod, and led postmortems like a true incident whisperer.
-- Mentored newer devs like a proud tech-uncle—think design reviews, pair programming, and delivery bootcamps.
+- Led development of key features within HR systems, supporting critical onboarding and hiring workflows.
+- Built proof-of-concepts for AI-powered applications, including a Retrieval-Augmented Generation (RAG) system to triage customer support issues.
+- Collaborated closely with cross-functional teams—product, design, and engineering—to ship impactful, production-ready features.
+- Modernized legacy codebases by implementing scalable patterns using Django and MongoDB.
+- Actively participated in incident response and postmortems as part of the on-call team.
+- Mentored junior engineers through design reviews, pair programming, and onboarding initiatives.
 
 ---
 
 ### 💸 Jupiter – Software Development Engineer II *(Mar 2023 – Sep 2024, Bengaluru)*
 
-Fintech? Check. Engineering at scale? Check. I was part of the core team building out Jupiter’s lending platform—because who said money can’t be fun?
+At Jupiter, I contributed to the core lending platform, helping scale fintech systems that supported key financial products.
 
-- Took ownership from 0 → 🚀 for multiple services in the loans platform—think clean architecture and clean commits.
-- Played the architect role and rewired the lending stack with scalable patterns and seriously rigorous reviews.
-- Introduced property-based testing before it was cool (and made it team-wide standard).
-- Balancing innovation with pragmatism, I made sure we shipped reliably while keeping code quality A+.
+- Designed and developed services from scratch for the loans platform with an emphasis on scalability and clean architecture.
+- Played a key role in shaping technical direction and improving code quality through detailed design and code reviews.
+- Championed the adoption of property-based testing across the team to strengthen test coverage and system reliability.
+- Balanced engineering velocity with code maintainability and long-term architectural decisions.
 
 ---
 
 ### 💳 Jupiter – Software Development Engineer I *(Aug 2021 – Mar 2023, Bengaluru)*
 
-This was where the real engineering bootcamp began. Think of it as my tour of duty in high-stakes systems.
+As part of the early team in Jupiter’s credit domain, I worked on high-throughput, production-grade systems.
 
-- Built production-grade services that crunched over a million transactions daily—auto-pay, card swipes, and EMI logic included.
-- Mapped complex credit products into elegant, maintainable services—like translating banker-speak into code.
-- Tackled performance bottlenecks and squashed long-standing bugs, while juggling on-call like a zen master.
+- Developed backend services to support card transactions, EMI logic, and auto-pay workflows—handling over a million daily transactions.
+- Translated complex credit product requirements into well-structured, maintainable code.
+- Resolved long-standing performance bottlenecks and contributed to the team's on-call responsibilities.
 
 ---
 
 ### 🚌 Shuttl – Software Engineer *(Apr 2021 – Aug 2021, Bengaluru)*
 
-Brief but impactful—like a power nap that fixes your whole day.
+Joined Shuttl during a critical transition phase, contributing to backend optimization efforts.
 
-- Took major services from Flask to FastAPI and watched our platform go *vroom* 🚀 in both performance and scalability.
-- Cut through layers of tech debt and cleaned up core microservices like spring cleaning on steroids.
+- Migrated core services from Flask to FastAPI, significantly improving performance and scalability.
+- Refactored and stabilized microservices by addressing long-standing technical debt.
 
 ---
 
 ### 🌐 Nagarro – Associate Software Engineer *(Jan 2020 – Mar 2021, Gurugram)*
 
-My first *real* gig. Here’s where I learned to build systems that don’t fall over—and to ask clients smart questions.
+My first professional experience in software engineering, where I focused on building backend systems and exploring emerging technologies.
 
-- Built a GraphQL-based CMS that served content faster than you could say "REST who?"
-- Designed a self-balancing directory structure because someone had to tame that content chaos.
-- Played with AWS AppSync + Lambda like Lego blocks—only cooler.
-- Wrote an IAM system for the CMS because access control isn’t optional, it’s sacred.
-- Also dabbled in Clojure and Neo4j for PoCs that became legit projects. Nerdy? Absolutely. Worth it? Every bit.
+- Built a GraphQL-based CMS designed for performance and flexibility.
+- Designed a dynamic directory structure to improve content management efficiency.
+- Developed and deployed AWS AppSync + Lambda-based features, integrating modern cloud-native architectures.
+- Implemented an IAM system to support secure access control within the CMS.
+- Explored Clojure and Neo4j to develop data-driven PoCs that were later adopted into production.
 
 ---
 
 ### 🔬 AGH University of Science and Technology – Research Intern *(Jun 2019 – Jul 2019, Krakow)*
 
-Two words: nerd paradise. I dove head-first into social network analysis and machine learning.
+During my research internship, I worked on applying machine learning to social network analysis in a global context.
 
-- Scraped global news, built datasets, and let unsupervised ML loose on international relations.
-- Visualized data like a pro using Gephi and Jupyter. If it looked good and made sense, I probably built it.
+- Built custom datasets by scraping and processing international news sources.
+- Applied unsupervised ML techniques to explore global political dynamics.
+- Created interactive visualizations using Gephi and Jupyter to communicate insights effectively.
